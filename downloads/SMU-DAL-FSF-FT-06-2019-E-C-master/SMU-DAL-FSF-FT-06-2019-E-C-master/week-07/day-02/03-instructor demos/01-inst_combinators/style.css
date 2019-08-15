@@ -1,0 +1,22 @@
+/* ---Descendent Selector--- */
+/* div p {
+    color: red;
+} */
+
+
+/* ---Child Selector--- */
+/* div > p {
+    color: red;
+} */
+
+
+/* ---Adjacent Selector--- */
+/* div + p {
+    background-color: yellow;
+} */
+
+
+/* ---Descendent Selector--- */
+/* div ~ p {
+    background-color: yellow;
+} */

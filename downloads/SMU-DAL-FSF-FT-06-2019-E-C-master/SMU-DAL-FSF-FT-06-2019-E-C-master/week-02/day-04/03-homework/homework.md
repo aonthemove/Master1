@@ -1,0 +1,2 @@
+
+For homework tonight, complete the [Learn Python in 60 Minutes from Java](https://www.youtube.com/watch?v=xLovcfIugy8) video and write a revised response for each of the above questions based on your new knowledge. You have 2 class days to submit your revised responses for instructional staff review.  Note: You are not expected to learn Python. You should be knowledgeable enough to know how to pitch yourself on a Python project.

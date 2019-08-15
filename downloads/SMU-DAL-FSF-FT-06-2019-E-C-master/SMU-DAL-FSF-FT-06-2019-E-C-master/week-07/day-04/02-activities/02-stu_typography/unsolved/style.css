@@ -1,0 +1,16 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#p1{
+    font-weight: bold;
+    font-family: 'Baloo Chettan', cursive;
+
+}
+#p2{
+    font-size: 24px;
+    font-family: 'Bangers', cursive;
+}
+#p3{
+    line-height: 50px;
+    font-family: 'Arapey', serif;
+}

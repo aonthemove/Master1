@@ -1,0 +1,28 @@
+/* Create a body element and add the following CSS
+font-family of Arial, Helvetica, sans-serif.
+background-color of white.
+font color of #2e2e37.
+
+Create div element(s) and add the following CSS
+background-color of #3bb3c7.
+add a font color of white.
+
+Create element(s) with a footnote class and add the following CSS
+font color of #5f6070.
+add a font-size of 11px. */
+
+body{
+ font-family: Arial, Helvetica, sans-serif;
+ background-color : rgb(90, 180, 128);
+ color: #2e2e37;
+}
+
+div{
+  background-color: #3bb3c7;
+  color: white
+}
+
+.footnote{
+  color:#5f6070;
+  font-size: 11px
+}

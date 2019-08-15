@@ -1,0 +1,29 @@
+/* Descendent Selector */
+/* Select all <p> tags within #sibling-1 */
+?? {
+    color: yellow;
+}
+
+/* Child selector */
+/* The <h3> tag is an immediate child of the div, #sibling-1. Select all <h3> tags. */
+?? {
+    color: red;
+}
+
+/* Adjacent sibling selector */
+/* Select the <div> element with the id of #sibling-1 and its adjacent sibling, #sibling-2 */
+?? {
+    color: brown;
+}
+
+/* General sibling selector */
+/* Select #sibling-1 and the element's sibling, #sibling-4 */
+?? {
+    color: green;
+}
+
+/* Grouping */
+/* Select <p>, <h3>, and <h4> tags  */
+?? {
+    color: blue;
+}

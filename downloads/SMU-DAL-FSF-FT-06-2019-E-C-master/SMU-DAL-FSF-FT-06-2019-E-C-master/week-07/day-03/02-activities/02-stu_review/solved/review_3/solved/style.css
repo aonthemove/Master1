@@ -1,0 +1,36 @@
+html {
+    background-color: beige;
+}
+
+.container-1, .container-2, .container-3 {
+    height: 200px;
+    width: 33%;
+    margin-bottom: 90px;
+    float: left;
+}
+
+.container-1 {
+    background-color: green;
+}
+
+.container-2 {
+    background-color: orange;
+}
+
+.container-3 {
+    background-color: violet;
+}
+
+.lorem-card {
+    clear: both;
+    width: 40%;
+    margin: 0 auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    overflow: auto;
+}
+
+.lorem-image {
+    float: right;
+}

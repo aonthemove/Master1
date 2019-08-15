@@ -1,0 +1,34 @@
+div {
+    margin: 10px;
+}
+
+p {
+    font-size: 1.4em;
+}
+
+/* Give all descendant p elements of #div1 a black background color with white font */
+#div1 p {
+    background-color: #000;
+    color: #fff;
+}
+
+/* Give only child p elements of #div2 a cyan background with red font, exclude paragraphs in the span element */
+#div2 > p {
+    background-color: cyan;
+    color: red;
+}
+
+/* Give all general sibling p elements of #div1 a blue font */
+#div1 ~ p {
+    color: blue;
+}
+
+/* Give all adjacaent sibling p elements of #div2 a yellow background color */
+#div2 + p {
+    background-color: yellow;
+}
+
+/* Give #div1 and #div2 a border without adding the border to all divs */
+#div1, #div2 {
+    border: 1px solid #000;
+}

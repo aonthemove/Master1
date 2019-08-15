@@ -1,0 +1,19 @@
+body {
+  background-color: #F2E5D5;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.box1 {
+  background: #57B8FF;
+  color: #353f4f;
+}
+
+
+.box2 {
+  background: #2176AE;
+  color: #bbd2e4;
+}

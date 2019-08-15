@@ -1,0 +1,10 @@
+*{
+    text-align: left;
+    width: 100%
+}
+.hidden{
+    visibility: hidden;
+}
+h1{
+    padding: 10px;
+}
